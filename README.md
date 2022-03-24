@@ -12,10 +12,10 @@ The "Filter Search" section allows the user to apply filters to the data display
 
 The data table initially includes all data contained in the data.js file. Filters are used to target specific data of interest. The column headers used are date, city, state, country, shape, duration, and comments. 
 
-Below is an image showing the results when a city filter is applied using the value "el cajon".
-![image](https://github.com/msaunders0/UFOs/blob/main/Resources/results.png)
+Below is an image showing the results when a city filter is applied using the value "el cajon":<br><br>
+![image](https://github.com/msaunders0/UFOs/blob/main/Resources/results_all.png)
 
-This next image shows the results after a 2nd filter is applied for the shape of the UFO, where the example value used was "triangle". 
+This next image shows the results after a 2nd filter is applied for the shape of the UFO, where the example value used was "triangle":<br><br>
 ![image](https://github.com/msaunders0/UFOs/blob/main/Resources/results_by_shape.png)
 
 ## Summary
