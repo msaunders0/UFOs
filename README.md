@@ -7,6 +7,7 @@ The purpose of this analysis is to track UFO sightings using a filtered search f
 In order to begin using this web application, [click here](https://msaunders0.github.io/UFOs/), which will display the index.html file in the root directory. The UI contains a jumbotron with background image, introductory text, multiple search filter bars, and a table where the data is displayed. Each data object is displayed in a row, with multiple columns containing values including the date, city, state, country, shape, duration, and comments of each reported sighting.
 
 The "Filter Search" section allows the user to apply filters to the data displayed in the table. The user can apply as many filters as needed, all of which will be applied simultaenously in order to precisely narrow down the results of the targetted search. Placeholder examples have been provided for each filter to assist the user. Because of our event listener code, the user can simply press the enter key after typing the desired input into one of the search fields in order to apply the filter to the results.
+
 ![image](https://github.com/msaunders0/UFOs/blob/main/Resources/filters.png)
 
 The data table initially includes all data contained in the data.js file. Filters are used to target specific data of interest. The column headers used are date, city, state, country, shape, duration, and comments. 
